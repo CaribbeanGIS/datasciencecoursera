@@ -4,8 +4,10 @@ A test repo
 ## A Sub-heading
 ### The smallest heading
 
-* Item
-* Item
-* Item
+* Unordered Item
+* Unordered Item
 
-A *bold* item
+1. Ordered Item
+2. Ordered Item
+
+An *italicised* item &amp; *another*
